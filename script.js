@@ -47,6 +47,7 @@
     
         second = 60
         minute = 24
+        isTime = 25
     }
 
     function breaker(){
@@ -58,6 +59,7 @@
           
         second = 60
         minute = 4
+        isTime = 5
     }
 
     function longRest(){
